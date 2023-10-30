@@ -23,9 +23,9 @@ Steps to run the Project
 1. Create .env files using .env.example
 2. Run `go run main.go` to start the server
 
-Match Result 
+# Match Result 
 
-# Nepal Vs Singapore 
+## Nepal Vs Singapore 
 https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-asia-qualifier-final-2023-24-1405299/nepal-vs-singapore-2nd-match-group-a-1405314/full-scorecard
 
 
@@ -62,3 +62,6 @@ https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-asia-qualifier-final
 | Karan KC        | 61000  |
 | Kushal Malla    | 26000  |
 | Sompal Kami     | 13000  |
+
+
+**Grand Total**: 676000
